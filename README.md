@@ -12,7 +12,6 @@
 - 🌱 Şu sıralar **Flutter ve Dart** öğreniyorum. Aktif olarak **Siber Güvenlik** ile ilgileniyorum. 
 - 📸 Yaratıcı içerikler üretmeyi, yazmayı, öğrenmeyi ve kitap okumayı çok seviyorum! 💚
 
-
 ---
 
 ### 🔧 Kullandığım Teknolojiler & Platformlar
@@ -25,9 +24,16 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coskunrumeysa&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</p>
 
 ---
 
@@ -36,7 +42,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/r%C3%BCmeysa-co%C5%9Fkun-45602b21a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rumeysa.coskunn7@gmail.com"><img src="https://img.shields.io/badge/E--posta-FF5C8A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
 </p>
 
 ---
