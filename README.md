@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Most Used Languages
+### 📊 En Çok Kullanılan Diller
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coskunrumeysa&layout=compact&theme=midnight-purple" alt="Top Languages" />
