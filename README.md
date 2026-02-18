@@ -49,4 +49,4 @@
 <p align="center">✨ Profilimi ziyaret ettiğin için teşekkürler! ✨</p>
 <p align="center">💖 Her satır kod, biraz sevgiyle yazıldı 💖</p>
 
-![Rumeysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coskunrumeysa&show_icons=true&theme=radical)
+
