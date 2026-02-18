@@ -49,4 +49,4 @@
 <p align="center">✨ Profilimi ziyaret ettiğin için teşekkürler! ✨</p>
 <p align="center">💖 Her satır kod, biraz sevgiyle yazıldı 💖</p>
 
-
+![GitHub Metrics](https://github.com/coskunrumeysa/coskunrumeysa/blob/master/github-metrics.svg)
