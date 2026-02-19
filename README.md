@@ -32,7 +32,7 @@
 ### 📊 En Çok Kullanılan Diller
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coskunrumeysa&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coskunrumeysa&layout=default&theme=midnight-purple&hide_border=true&card_width=450" alt="Top Languages" />
 </p>
 
 ---
