@@ -7,8 +7,8 @@
 
 ### 🌸 Hakkımda
 
-- 🎓 Bilgisayar mühendisliği ve yazılım mühendisliği bölümlerini bitirdim. Özel bir kurumda **İş Analisti**yim.
-- 💡 Power Apps, Power Automate ve Dynamics 365 dünyasında çözümler üretiyorum.
+- 🎓 Bilgisayar mühendisliği ve yazılım mühendisliği bölümlerini bitirdim. Özel bir kurumda **Power Platform Geliştiricisi**yim.
+- 💡 Power Apps, Power Automate , Power Pages  ve Dynamics 365 dünyasında çözümler üretiyorum.
 - 🌱 Şu sıralar **Flutter ve Dart** öğreniyorum. Aktif olarak **Siber Güvenlik** ile ilgileniyorum. 
 - 📸 Yaratıcı içerikler üretmeyi, yazmayı, öğrenmeyi ve kitap okumayı çok seviyorum! 💚
 
